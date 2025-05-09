@@ -1,7 +1,7 @@
 Scripts to test caching digest requests with cassandra.
 
 - Install [ccm](https://github.com/apache/cassandra-ccm) locally.
-- Clone modified cassandra source code
+- Clone [modified cassandra source code](https://github.com/mnarayan1/cassandra/tree/digest_cache)
 
 ```
 ./setup_cluster.sh
